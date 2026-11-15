@@ -1,64 +1,31 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "简历"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## 教育经历
+- **中山大学，人工智能学院** · 计算机技术与科学硕士在读，2025.09 — 至今。
+- **中山大学，人工智能学院** · 人工智能工学学士，2021.09 — 2025.06。GPA 4.13/5.0，排名 14/128。
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 研究与开发
+Python、JavaScript、Vue、Flask、HTML/CSS、Git、Linux；交互原型设计、用户研究、实验评估、前后端联调与服务器部署。
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+研究项目详情见[研究与项目](/research/)，发表信息见[论文](/publications/)。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 竞赛经历
+- 2023 全国大学生数学建模竞赛广东分赛，负责人，省级三等奖。
+- 2023 全国大学生数学建模竞赛“深圳杯”挑战赛，负责人，省级三等奖。
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 荣誉奖项
+- 国家励志奖学金（2023.12）
+- 曾宪梓教育基金奖学金，排名 2/625（2023.03）
+- 中山大学优秀学生奖学金一等、三等奖学金（2022.12、2023.11）
+- 校级优秀共青团员（2024.06）
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 语言与课程
+CET-6：495；CET-4：557。相关课程：机器学习、数据结构与算法、数据库系统、概率统计、线性代数、计算机组成原理。
+
+## 联系
+[chenx776@mail2.sysu.edu.cn](mailto:chenx776@mail2.sysu.edu.cn)
