@@ -1,9 +1,9 @@
 main:
-  - title: "关于我"
+  - title: "About"
     url: /
-  - title: "研究与项目"
+  - title: "Research"
     url: /research/
-  - title: "论文"
+  - title: "Publications"
     url: /publications/
-  - title: "简历"
+  - title: "CV"
     url: /cv/

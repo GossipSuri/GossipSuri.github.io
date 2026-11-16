@@ -1,31 +1,32 @@
 ---
 layout: single
-title: "简历"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
 
-## 教育经历
-- **中山大学，人工智能学院** · 计算机技术与科学硕士在读，2025.09 — 至今。
-- **中山大学，人工智能学院** · 人工智能工学学士，2021.09 — 2025.06。GPA 4.13/5.0，排名 14/128。
+## Education
 
-## 研究与开发
-Python、JavaScript、Vue、Flask、HTML/CSS、Git、Linux；交互原型设计、用户研究、实验评估、前后端联调与服务器部署。
+- **Sun Yat-sen University, School of Artificial Intelligence** — Master’s student in Computer Technology and Science, September 2025–present.
+- **Sun Yat-sen University, School of Artificial Intelligence** — Bachelor of Engineering in Artificial Intelligence, September 2021–June 2025. GPA: 4.13/5.0; rank: 14/128.
 
-研究项目详情见[研究与项目](/research/)，发表信息见[论文](/publications/)。
+## Research & Development Skills
 
-## 竞赛经历
-- 2023 全国大学生数学建模竞赛广东分赛，负责人，省级三等奖。
-- 2023 全国大学生数学建模竞赛“深圳杯”挑战赛，负责人，省级三等奖。
+Python, JavaScript, Vue, Flask, HTML/CSS, Git, and Linux; interaction prototyping, user research, experimental evaluation, frontend–backend integration, and server deployment.
 
-## 荣誉奖项
-- 国家励志奖学金（2023.12）
-- 曾宪梓教育基金奖学金，排名 2/625（2023.03）
-- 中山大学优秀学生奖学金一等、三等奖学金（2022.12、2023.11）
-- 校级优秀共青团员（2024.06）
+See [Research & Projects](/research/) for project details and [Publications](/publications/) for publication information.
 
-## 语言与课程
-CET-6：495；CET-4：557。相关课程：机器学习、数据结构与算法、数据库系统、概率统计、线性代数、计算机组成原理。
+## Competitions
 
-## 联系
+- China Undergraduate Mathematical Contest in Modeling, Guangdong division — Team lead, provincial third prize (2023).
+- Shenzhen Cup Mathematical Modeling Challenge — Team lead, provincial third prize (2023).
+
+## Honors & Awards
+
+- National Encouragement Scholarship (December 2023).
+- Tseng Hin Chi Education Foundation Scholarship, ranked 2/625 (March 2023).
+- Sun Yat-sen University Outstanding Student Scholarships, first and third prizes (December 2022 and November 2023).
+
+## Contact
+
 [chenx776@mail2.sysu.edu.cn](mailto:chenx776@mail2.sysu.edu.cn)

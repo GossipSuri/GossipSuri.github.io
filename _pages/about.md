@@ -1,29 +1,21 @@
 ---
 permalink: /
-title: "你好，我是陈霞"
+title: "About Me"
 author_profile: true
 ---
 
-我是中山大学人工智能学院计算机技术与科学专业的硕士研究生，研究兴趣包括 **Human–Computer Interaction、Human–AI Interaction 与 Human–AI Collaboration**。我关注如何将大语言模型与交互设计结合，帮助人们学习、创作和反思。
+I am **Xia Chen**, a master’s student at the School of Artificial Intelligence, **Sun Yat-sen University (SYSU)**, supervised by **[Zhenhui Peng](https://zhenhuipeng.com/)**. My interests include **Human–Computer Interaction, Human–AI Collaboration and intelligent systems for education and creative design**. I explore how large language models and interaction design can support learning, creativity, and reflection.
 
-我参与了在线设计社区的个性化视觉设计学习，以及面向美妆推广的创作辅助工具研究。
+I am interested in intern opportunities in **AI agents, LLM application development**.
 
-我希望从事 **AI Agent、大模型应用开发与 Human–AI Interaction** 相关工作。
+[Research & Projects](/research/) · [Publications](/publications/) · [Email](mailto:chenx776@mail2.sysu.edu.cn)
 
-[查看研究与项目](/research/) · [查看论文](/publications/) · [联系我](mailto:chenx776@mail2.sysu.edu.cn)
+## Education
 
-## 教育背景
+- **Sun Yat-sen University, School of Artificial Intelligence** — Master’s student in Computer Technology and Science, September 2025–present.
+- **Sun Yat-sen University, School of Artificial Intelligence** — Bachelor of Engineering in Artificial Intelligence, September 2021–June 2025. GPA: 4.13/5.0; rank: 14/128 (top 11%).
 
-- **中山大学 · 人工智能学院**，计算机技术与科学，硕士在读（2025.09 — 至今）
-- **中山大学 · 人工智能学院**，人工智能，工学学士（2021.09 — 2025.06）
-  GPA：4.13/5.0；专业排名：14/128（前 11%）。
 
-## 研究关注
+## Skills
 
-- **人智协作学习**：探索人机交互与人工智能如何支持个性化学习。
-- **创作支持工具**：围绕视觉设计与内容创作，设计贴合真实需求的交互原型。
-- **以用户为中心的评估**：结合访谈、形成性研究与用户实验检验系统效果。
-
-## 技术与方法
-
-Python、JavaScript、Vue、Flask、HTML/CSS、Git、Linux；前后端联调与服务器部署；交互原型设计、用户研究与实验评估。
+Python, JavaScript, Vue, Flask, HTML/CSS, Git, and Linux; frontend–backend integration and server deployment; interaction prototyping, user research, and experimental evaluation.

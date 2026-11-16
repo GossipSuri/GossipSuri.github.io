@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "陈霞 | Human–AI Interaction"
+title                    : "HomePage of Xia Chen"
 title_separator          : "-"
-name                     : &name "陈霞"
-description              : &description "中山大学硕士研究生，关注人机交互、人智交互与 AI Agent 应用。"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xia Chen"
+description              : &description "I am a master’s student in Computer Science at the School of Artificial Intelligence, Sun Yat-sen University (SYSU), supervised by Zhenhui Peng. I received my B.Eng. in Artificial Intelligence from Sun Yat-sen University in 2025. "   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://GossipSuri.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,12 +23,12 @@ repository               : "GossipSuri/GossipSuri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
-  name             : "陈霞"
+  avatar           : "avatar-2.png"
+  name             : "Xia Chen"
   pronouns         : # example: "she/her"
-  bio              : "中山大学 · 人工智能学院\nHuman–AI Interaction"
-  location         : "中国"
-  employer         : "中山大学"
+  bio              : "Sun Yat-sen University"
+  location         : "China, Guangdong"
+  employer         : #"Sun Yat-sen University"
   uri              : # URL
   email            : "chenx776@mail2.sysu.edu.cn"
 
@@ -38,7 +38,7 @@ author:
   googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0003-6300-8966"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
